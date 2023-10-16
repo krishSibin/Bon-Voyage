@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394830706909",
+    "project_id": "miniprojectgp14",
+    "storage_bucket": "miniprojectgp14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394830706909:android:34f2f08d35a1aaf17e4334",
+        "android_client_info": {
+          "package_name": "com.example.miniproject_traveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394830706909-tbd46ka8tnu3u9rdqqjughsrasug1ar2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOMUargl7kAFOZShUwh6s1Mj73WDCpME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394830706909-tbd46ka8tnu3u9rdqqjughsrasug1ar2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
